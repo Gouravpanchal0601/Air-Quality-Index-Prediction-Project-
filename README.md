@@ -17,6 +17,7 @@ This project aims to predict air pollution levels in Delhi utilizing data from 2
   
 ## Tools and Software Used
 - Python (Pandas, NumPy, Scikit-learn)
+- Jupyter Notebook
 - Web Scraping (Beautiful Soup)
 - Structured Query Language (SQL)
 - Data visualization libraries (Matplotlib, Seaborn, Plotly)
